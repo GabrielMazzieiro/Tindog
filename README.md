@@ -11,10 +11,11 @@
 - HTML
 - CSS
 - Bootstrap
+- JQuery
 
 ---
 
-## Preview
+## Preview:
 
 <p align="center">
 <a href="https://gabrielmazzieiro.github.io/Tindog"><img src="assets/img/tindog mobile.png" width="200"></a>
@@ -23,4 +24,4 @@
 
 ---
 
-Wanna See It [Live](https://gabrielmazzieiro.github.io/Tindog)?
+## Wanna See It [Live](https://gabrielmazzieiro.github.io/Tindog)?
